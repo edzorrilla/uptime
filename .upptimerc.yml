@@ -13,8 +13,6 @@ sites:
     url: https://staywellversed.com
   - name: Ads VapeRanger
     url: https://ads.vaperanger.com
-  - name: Fail test
-    url: https://test.test/
 
 assignees:
   - edzorrilla
