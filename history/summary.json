@@ -4,89 +4,99 @@
     "url": "https://vaperanger.com",
     "icon": "https://favicons.githubusercontent.com/vaperanger.com",
     "slug": "vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 764,
-    "timeDay": 642,
-    "timeWeek": 758,
-    "timeMonth": 785,
-    "timeYear": 764,
-    "dailyMinutesDown": {}
+    "time": 755,
+    "timeDay": 392,
+    "timeWeek": 681,
+    "timeMonth": 765,
+    "timeYear": 755,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Hemmfy",
     "url": "https://www.hemmfy.com",
     "icon": "https://favicons.githubusercontent.com/www.hemmfy.com",
     "slug": "hemmfy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 307,
-    "timeWeek": 287,
-    "timeMonth": 294,
-    "timeYear": 352,
-    "dailyMinutesDown": {}
+    "time": 350,
+    "timeDay": 258,
+    "timeWeek": 277,
+    "timeMonth": 291,
+    "timeYear": 350,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "eJuiceDB",
     "url": "https://www.ejuicedb.com",
     "icon": "https://favicons.githubusercontent.com/www.ejuicedb.com",
     "slug": "e-juice-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 672,
-    "timeWeek": 549,
-    "timeMonth": 623,
-    "timeYear": 690,
-    "dailyMinutesDown": {}
+    "time": 682,
+    "timeDay": 390,
+    "timeWeek": 494,
+    "timeMonth": 607,
+    "timeYear": 682,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Well Versed",
     "url": "https://staywellversed.com",
     "icon": "https://favicons.githubusercontent.com/staywellversed.com",
     "slug": "well-versed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 166,
-    "timeWeek": 183,
-    "timeMonth": 173,
-    "timeYear": 175,
-    "dailyMinutesDown": {}
+    "time": 174,
+    "timeDay": 151,
+    "timeWeek": 177,
+    "timeMonth": 171,
+    "timeYear": 174,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Ads VapeRanger",
     "url": "https://ads.vaperanger.com",
     "icon": "https://favicons.githubusercontent.com/ads.vaperanger.com",
     "slug": "ads-vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 168,
-    "timeWeek": 221,
+    "timeDay": 187,
+    "timeWeek": 220,
     "timeMonth": 201,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
