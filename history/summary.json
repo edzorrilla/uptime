@@ -4,19 +4,19 @@
     "url": "https://vaperanger.com",
     "icon": "https://favicons.githubusercontent.com/vaperanger.com",
     "slug": "vape-ranger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 392,
-    "timeWeek": 681,
-    "timeMonth": 765,
-    "timeYear": 755,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 756,
+    "timeDay": 530,
+    "timeWeek": 695,
+    "timeMonth": 767,
+    "timeYear": 756,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.hemmfy.com",
     "icon": "https://favicons.githubusercontent.com/www.hemmfy.com",
     "slug": "hemmfy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 350,
-    "timeDay": 258,
-    "timeWeek": 277,
-    "timeMonth": 291,
+    "timeDay": 276,
+    "timeWeek": 281,
+    "timeMonth": 292,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.ejuicedb.com",
     "icon": "https://favicons.githubusercontent.com/www.ejuicedb.com",
     "slug": "e-juice-db",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 390,
-    "timeWeek": 494,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 681,
+    "timeDay": 469,
+    "timeWeek": 509,
     "timeMonth": 607,
-    "timeYear": 682,
+    "timeYear": 681,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 7
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://staywellversed.com",
     "icon": "https://favicons.githubusercontent.com/staywellversed.com",
     "slug": "well-versed",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 174,
-    "timeDay": 151,
+    "timeDay": 158,
     "timeWeek": 177,
-    "timeMonth": 171,
+    "timeMonth": 172,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 7
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://ads.vaperanger.com",
     "icon": "https://favicons.githubusercontent.com/ads.vaperanger.com",
     "slug": "ads-vape-ranger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 187,
-    "timeWeek": 220,
-    "timeMonth": 201,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 233,
+    "timeDay": 292,
+    "timeWeek": 251,
+    "timeMonth": 211,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 7
     }
   }
 ]
