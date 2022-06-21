@@ -22,19 +22,19 @@
     "url": "https://www.hemmfy.com",
     "icon": "https://favicons.githubusercontent.com/www.hemmfy.com",
     "slug": "hemmfy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 237,
-    "timeWeek": 265,
-    "timeMonth": 287,
-    "timeYear": 346,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 348,
+    "timeDay": 278,
+    "timeWeek": 281,
+    "timeMonth": 291,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 6
     }
   },
   {
