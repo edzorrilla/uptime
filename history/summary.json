@@ -22,18 +22,20 @@
     "url": "https://www.hemmfy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 173,
-    "timeWeek": 452,
-    "timeMonth": 361,
-    "timeYear": 360,
-    "dailyMinutesDown": {}
+    "time": 359,
+    "timeDay": 172,
+    "timeWeek": 417,
+    "timeMonth": 355,
+    "timeYear": 359,
+    "dailyMinutesDown": {
+      "2022-11-06": 0
+    }
   },
   {
     "name": "eJuiceDB",
