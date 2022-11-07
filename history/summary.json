@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 876,
-    "timeWeek": 1128,
-    "timeMonth": 1086,
-    "timeYear": 948,
+    "time": 951,
+    "timeDay": 1457,
+    "timeWeek": 1202,
+    "timeMonth": 1102,
+    "timeYear": 951,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 355,
-    "timeDay": 183,
-    "timeWeek": 328,
-    "timeMonth": 333,
+    "timeDay": 210,
+    "timeWeek": 331,
+    "timeMonth": 319,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2022-11-06": 54
+      "2022-11-06": 39
     }
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 802,
-    "timeDay": 3970,
-    "timeWeek": 1418,
-    "timeMonth": 1050,
+    "timeDay": 906,
+    "timeWeek": 1393,
+    "timeMonth": 1056,
     "timeYear": 802,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 444,
-    "timeDay": 708,
-    "timeWeek": 671,
-    "timeMonth": 632,
-    "timeYear": 444,
+    "time": 445,
+    "timeDay": 682,
+    "timeWeek": 673,
+    "timeMonth": 635,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2022-08-05": 999,
       "2022-08-04": 207
@@ -88,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 104,
-    "timeWeek": 225,
-    "timeMonth": 247,
+    "timeDay": 192,
+    "timeWeek": 197,
+    "timeMonth": 246,
     "timeYear": 221,
     "dailyMinutesDown": {}
   }
