@@ -4,10 +4,10 @@
     "url": "https://vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/vaperanger.com.ico",
     "slug": "vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 974,
@@ -15,7 +15,9 @@
     "timeWeek": 1140,
     "timeMonth": 1115,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-29": 1
+    }
   },
   {
     "name": "Hemmfy",
@@ -61,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "down",
-    "uptime": "86.96%",
+    "uptime": "86.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "20.01%",
-    "uptimeMonth": "5.98%",
-    "uptimeYear": "86.96%",
+    "uptimeWeek": "21.62%",
+    "uptimeMonth": "6.36%",
+    "uptimeYear": "86.97%",
     "time": 477,
     "timeDay": 596,
     "timeWeek": 538,
@@ -114,9 +116,9 @@
     "url": "https://ads.vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/ads.vaperanger.com.ico",
     "slug": "ads-vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +127,8 @@
     "timeWeek": 160,
     "timeMonth": 191,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-29": 0
+    }
   }
 ]
