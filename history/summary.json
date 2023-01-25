@@ -4,11 +4,11 @@
     "url": "https://vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/vaperanger.com.ico",
     "slug": "vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 948,
     "timeDay": 713,
@@ -16,7 +16,7 @@
     "timeMonth": 753,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
+      "2023-01-25": 1,
       "2022-12-29": 49
     }
   },
@@ -67,7 +67,7 @@
     "uptime": "88.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.32%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "88.24%",
     "time": 496,
     "timeDay": 1120,
@@ -117,11 +117,11 @@
     "url": "https://ads.vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/ads.vaperanger.com.ico",
     "slug": "ads-vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 233,
     "timeDay": 2239,
@@ -129,7 +129,7 @@
     "timeMonth": 387,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
+      "2023-01-25": 0,
       "2022-12-29": 35
     }
   }
