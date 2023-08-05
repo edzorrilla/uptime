@@ -6,17 +6,16 @@
     "slug": "vape-ranger",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 910,
-    "timeDay": 3045,
-    "timeWeek": 1530,
-    "timeMonth": 970,
-    "timeYear": 909,
+    "timeDay": 2899,
+    "timeWeek": 1490,
+    "timeMonth": 982,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2023-08-04": 7,
       "2023-01-25": 16,
       "2022-12-29": 49
     }
@@ -33,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 323,
-    "timeDay": 166,
-    "timeWeek": 213,
+    "timeDay": 276,
+    "timeWeek": 214,
     "timeMonth": 238,
-    "timeYear": 310,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2022-11-06": 39
     }
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 796,
-    "timeDay": 513,
-    "timeWeek": 472,
-    "timeMonth": 660,
+    "timeDay": 644,
+    "timeWeek": 457,
+    "timeMonth": 653,
     "timeYear": 824,
     "dailyMinutesDown": {}
   },
@@ -69,12 +68,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.04%",
-    "time": 576,
-    "timeDay": 121,
-    "timeWeek": 133,
-    "timeMonth": 571,
-    "timeYear": 699,
+    "uptimeYear": "91.06%",
+    "time": 575,
+    "timeDay": 136,
+    "timeWeek": 126,
+    "timeMonth": 557,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2022-12-27": 962,
       "2022-12-26": 1440,
@@ -108,8 +107,7 @@
       "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
-      "2022-11-25": 397,
-      "2022-08-05": 999
+      "2022-11-25": 397
     }
   },
   {
@@ -124,9 +122,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 146,
-    "timeWeek": 197,
-    "timeMonth": 205,
+    "timeDay": 230,
+    "timeWeek": 192,
+    "timeMonth": 203,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2022-12-29": 35
