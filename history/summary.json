@@ -43,18 +43,20 @@
     "url": "https://www.ejuicedb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 860,
-    "timeWeek": 571,
-    "timeMonth": 722,
-    "timeYear": 770,
-    "dailyMinutesDown": {}
+    "timeDay": 496,
+    "timeWeek": 517,
+    "timeMonth": 705,
+    "timeYear": 769,
+    "dailyMinutesDown": {
+      "2023-11-13": 0
+    }
   },
   {
     "name": "Well Versed",
@@ -62,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "up",
-    "uptime": "94.25%",
+    "uptime": "94.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
