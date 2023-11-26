@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 928,
-    "timeDay": 1083,
-    "timeWeek": 912,
-    "timeMonth": 938,
-    "timeYear": 902,
+    "time": 926,
+    "timeDay": 476,
+    "timeWeek": 826,
+    "timeMonth": 916,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-12-29": 49
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 189,
-    "timeWeek": 267,
-    "timeMonth": 410,
-    "timeYear": 293,
+    "time": 305,
+    "timeDay": 359,
+    "timeWeek": 259,
+    "timeMonth": 412,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   },
   {
@@ -50,10 +50,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 792,
-    "timeDay": 534,
-    "timeWeek": 477,
-    "timeMonth": 599,
-    "timeYear": 748,
+    "timeDay": 598,
+    "timeWeek": 467,
+    "timeMonth": 586,
+    "timeYear": 747,
     "dailyMinutesDown": {
       "2023-11-13": 39
     }
@@ -64,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "up",
-    "uptime": "94.37%",
+    "uptime": "94.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.25%",
+    "uptimeYear": "91.33%",
     "time": 582,
-    "timeDay": 160,
-    "timeWeek": 185,
+    "timeDay": 212,
+    "timeWeek": 181,
     "timeMonth": 252,
-    "timeYear": 540,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2022-12-27": 962,
       "2022-12-26": 1440,
@@ -105,8 +105,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -121,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 145,
-    "timeWeek": 157,
-    "timeMonth": 201,
-    "timeYear": 237,
+    "timeDay": 272,
+    "timeWeek": 168,
+    "timeMonth": 203,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2022-12-29": 35
     }
