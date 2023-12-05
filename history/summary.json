@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 918,
-    "timeDay": 521,
-    "timeWeek": 721,
-    "timeMonth": 826,
-    "timeYear": 892,
+    "time": 919,
+    "timeDay": 948,
+    "timeWeek": 662,
+    "timeMonth": 837,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-12-29": 49
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 5107,
-    "timeWeek": 920,
-    "timeMonth": 571,
+    "timeDay": 369,
+    "timeWeek": 946,
+    "timeMonth": 572,
     "timeYear": 303,
     "dailyMinutesDown": {}
   },
@@ -50,10 +50,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 790,
-    "timeDay": 351,
-    "timeWeek": 505,
-    "timeMonth": 506,
-    "timeYear": 734,
+    "timeDay": 585,
+    "timeWeek": 450,
+    "timeMonth": 492,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2023-11-13": 39
     }
@@ -64,15 +64,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "up",
-    "uptime": "94.46%",
+    "uptime": "94.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.52%",
+    "uptimeYear": "93.79%",
     "time": 580,
-    "timeDay": 130,
-    "timeWeek": 147,
-    "timeMonth": 242,
+    "timeDay": 544,
+    "timeWeek": 201,
+    "timeMonth": 252,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2022-12-27": 962,
@@ -96,8 +96,7 @@
       "2022-12-09": 1440,
       "2022-12-08": 1440,
       "2022-12-07": 1440,
-      "2022-12-06": 1440,
-      "2022-12-05": 1440
+      "2022-12-06": 1440
     }
   },
   {
@@ -112,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 176,
-    "timeWeek": 215,
+    "timeDay": 225,
+    "timeWeek": 227,
     "timeMonth": 200,
     "timeYear": 238,
     "dailyMinutesDown": {
