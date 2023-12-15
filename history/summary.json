@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 926,
-    "timeDay": 869,
-    "timeWeek": 1274,
-    "timeMonth": 916,
-    "timeYear": 894,
+    "time": 924,
+    "timeDay": 497,
+    "timeWeek": 957,
+    "timeMonth": 885,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-12-29": 49
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 174,
-    "timeWeek": 189,
-    "timeMonth": 453,
-    "timeYear": 302,
+    "time": 310,
+    "timeDay": 262,
+    "timeWeek": 237,
+    "timeMonth": 406,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
@@ -47,13 +47,13 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 779,
-    "timeDay": 401,
-    "timeWeek": 487,
-    "timeMonth": 459,
-    "timeYear": 719,
+    "timeDay": 539,
+    "timeWeek": 512,
+    "timeMonth": 491,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2023-11-13": 39
     }
@@ -64,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "up",
-    "uptime": "94.54%",
+    "uptime": "94.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.99%",
-    "time": 562,
-    "timeDay": 88,
-    "timeWeek": 150,
-    "timeMonth": 240,
-    "timeYear": 521,
+    "uptimeYear": "96.53%",
+    "time": 560,
+    "timeDay": 192,
+    "timeWeek": 140,
+    "timeMonth": 174,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2022-12-27": 962,
       "2022-12-26": 1440,
@@ -86,9 +86,7 @@
       "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
-      "2022-12-16": 1440,
-      "2022-12-15": 1440,
-      "2022-12-14": 1440
+      "2022-12-16": 1440
     }
   },
   {
@@ -103,10 +101,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 147,
-    "timeWeek": 162,
-    "timeMonth": 186,
-    "timeYear": 236,
+    "timeDay": 146,
+    "timeWeek": 171,
+    "timeMonth": 187,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2022-12-29": 35
     }
