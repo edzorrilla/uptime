@@ -6,17 +6,16 @@
     "slug": "vape-ranger",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 935,
-    "timeDay": 2649,
-    "timeWeek": 1572,
-    "timeMonth": 1063,
-    "timeYear": 907,
+    "time": 934,
+    "timeDay": 2707,
+    "timeWeek": 1544,
+    "timeMonth": 1070,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2023-12-15": 7,
       "2023-01-25": 16,
       "2022-12-29": 49
     }
@@ -32,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 262,
-    "timeWeek": 237,
-    "timeMonth": 406,
+    "time": 308,
+    "timeDay": 368,
+    "timeWeek": 264,
+    "timeMonth": 412,
     "timeYear": 303,
     "dailyMinutesDown": {}
   },
@@ -50,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 779,
-    "timeDay": 539,
-    "timeWeek": 512,
-    "timeMonth": 491,
-    "timeYear": 721,
+    "time": 778,
+    "timeDay": 729,
+    "timeWeek": 544,
+    "timeMonth": 503,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2023-11-13": 39
     }
@@ -69,12 +68,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.77%",
-    "time": 560,
-    "timeDay": 192,
-    "timeWeek": 140,
-    "timeMonth": 174,
-    "timeYear": 519,
+    "uptimeYear": "96.81%",
+    "time": 559,
+    "timeDay": 226,
+    "timeWeek": 163,
+    "timeMonth": 178,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2022-12-27": 962,
       "2022-12-26": 1440,
@@ -86,8 +85,7 @@
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
-      "2022-12-17": 1440,
-      "2022-12-16": 1440
+      "2022-12-17": 1440
     }
   },
   {
@@ -102,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 146,
-    "timeWeek": 171,
-    "timeMonth": 187,
+    "timeDay": 258,
+    "timeWeek": 180,
+    "timeMonth": 189,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-12-29": 35
