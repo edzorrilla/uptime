@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 933,
-    "timeDay": 483,
-    "timeWeek": 1385,
-    "timeMonth": 1056,
-    "timeYear": 904,
+    "time": 932,
+    "timeDay": 663,
+    "timeWeek": 1377,
+    "timeMonth": 1050,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-12-29": 49
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 198,
-    "timeWeek": 252,
-    "timeMonth": 403,
-    "timeYear": 303,
+    "time": 309,
+    "timeDay": 337,
+    "timeWeek": 281,
+    "timeMonth": 413,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 775,
-    "timeDay": 460,
-    "timeWeek": 532,
-    "timeMonth": 502,
-    "timeYear": 719,
+    "time": 772,
+    "timeDay": 621,
+    "timeWeek": 563,
+    "timeMonth": 518,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2023-11-13": 39
     }
@@ -64,25 +64,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "up",
-    "uptime": "94.59%",
+    "uptime": "94.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.63%",
-    "time": 546,
-    "timeDay": 164,
-    "timeWeek": 165,
-    "timeMonth": 175,
-    "timeYear": 514,
+    "uptimeYear": "98.18%",
+    "time": 544,
+    "timeDay": 225,
+    "timeWeek": 180,
+    "timeMonth": 179,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2022-12-27": 962,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
-      "2022-12-22": 1440,
-      "2022-12-21": 1440,
-      "2022-12-20": 1440
+      "2022-12-22": 1440
     }
   },
   {
@@ -97,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 230,
-    "timeDay": 214,
-    "timeWeek": 188,
-    "timeMonth": 185,
+    "timeDay": 256,
+    "timeWeek": 203,
+    "timeMonth": 195,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-12-29": 35
