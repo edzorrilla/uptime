@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 933,
-    "timeDay": 910,
-    "timeWeek": 856,
-    "timeMonth": 1067,
-    "timeYear": 901,
+    "time": 931,
+    "timeDay": 434,
+    "timeWeek": 775,
+    "timeMonth": 1049,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2023-01-25": 16,
       "2022-12-29": 49
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 273,
-    "timeWeek": 259,
-    "timeMonth": 414,
+    "timeDay": 152,
+    "timeWeek": 250,
+    "timeMonth": 407,
     "timeYear": 304,
     "dailyMinutesDown": {}
   },
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 772,
-    "timeDay": 531,
-    "timeWeek": 515,
-    "timeMonth": 529,
-    "timeYear": 713,
+    "time": 771,
+    "timeDay": 145,
+    "timeWeek": 460,
+    "timeMonth": 509,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2023-11-13": 39
     }
@@ -64,21 +64,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "up",
-    "uptime": "94.63%",
+    "uptime": "94.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.73%",
-    "time": 542,
-    "timeDay": 129,
-    "timeWeek": 161,
-    "timeMonth": 177,
-    "timeYear": 509,
+    "uptimeYear": "99.00%",
+    "time": 540,
+    "timeDay": 144,
+    "timeWeek": 159,
+    "timeMonth": 173,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2022-12-27": 962,
       "2022-12-26": 1440,
-      "2022-12-25": 1440,
-      "2022-12-24": 1440
+      "2022-12-25": 1440
     }
   },
   {
@@ -93,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 230,
-    "timeDay": 141,
-    "timeWeek": 192,
-    "timeMonth": 197,
+    "timeDay": 165,
+    "timeWeek": 195,
+    "timeMonth": 194,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-12-29": 35
