@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 939,
-    "timeDay": 1046,
-    "timeWeek": 1211,
-    "timeMonth": 1091,
-    "timeYear": 925,
+    "timeDay": 1188,
+    "timeWeek": 1238,
+    "timeMonth": 1100,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -26,18 +26,16 @@
     "slug": "hemmfy",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 2908,
-    "timeWeek": 1177,
-    "timeMonth": 511,
+    "timeDay": 2877,
+    "timeWeek": 1174,
+    "timeMonth": 510,
     "timeYear": 317,
-    "dailyMinutesDown": {
-      "2024-01-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "eJuiceDB",
@@ -46,17 +44,16 @@
     "slug": "e-juice-db",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 746,
-    "timeDay": 485,
-    "timeWeek": 502,
-    "timeMonth": 501,
-    "timeYear": 671,
+    "timeDay": 589,
+    "timeWeek": 491,
+    "timeMonth": 499,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2024-01-22": 5,
       "2023-11-13": 39
     }
   },
@@ -66,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "up",
-    "uptime": "94.88%",
+    "uptime": "94.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 286,
-    "timeWeek": 192,
-    "timeMonth": 163,
-    "timeYear": 471,
+    "time": 509,
+    "timeDay": 93,
+    "timeWeek": 181,
+    "timeMonth": 162,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -90,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 209,
-    "timeWeek": 229,
-    "timeMonth": 205,
-    "timeYear": 234,
+    "timeDay": 102,
+    "timeWeek": 221,
+    "timeMonth": 204,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]
