@@ -4,18 +4,20 @@
     "url": "https://vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/vaperanger.com.ico",
     "slug": "vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 944,
-    "timeDay": 652,
-    "timeWeek": 1219,
-    "timeMonth": 1159,
-    "timeYear": 933,
-    "dailyMinutesDown": {}
+    "timeDay": 305,
+    "timeWeek": 1112,
+    "timeMonth": 1147,
+    "timeYear": 931,
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "Hemmfy",
@@ -29,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 208,
-    "timeWeek": 257,
-    "timeMonth": 516,
-    "timeYear": 317,
+    "timeDay": 382,
+    "timeWeek": 274,
+    "timeMonth": 520,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 741,
-    "timeDay": 521,
-    "timeWeek": 451,
-    "timeMonth": 504,
-    "timeYear": 659,
+    "timeDay": 845,
+    "timeWeek": 549,
+    "timeMonth": 518,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2023-11-13": 39
     }
@@ -61,15 +63,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "up",
-    "uptime": "94.95%",
+    "uptime": "94.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 502,
-    "timeDay": 301,
-    "timeWeek": 184,
-    "timeMonth": 175,
+    "timeDay": 510,
+    "timeWeek": 229,
+    "timeMonth": 186,
     "timeYear": 457,
     "dailyMinutesDown": {}
   },
@@ -85,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 207,
-    "timeWeek": 193,
-    "timeMonth": 204,
+    "timeDay": 251,
+    "timeWeek": 214,
+    "timeMonth": 208,
     "timeYear": 222,
     "dailyMinutesDown": {}
   }
