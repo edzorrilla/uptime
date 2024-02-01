@@ -6,18 +6,16 @@
     "slug": "vape-ranger",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 944,
     "timeDay": 601,
     "timeWeek": 1085,
     "timeMonth": 1139,
     "timeYear": 908,
-    "dailyMinutesDown": {
-      "2024-01-31": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hemmfy",
