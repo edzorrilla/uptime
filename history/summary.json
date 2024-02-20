@@ -6,18 +6,16 @@
     "slug": "vape-ranger",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 931,
-    "timeWeek": 1174,
-    "timeMonth": 1086,
-    "timeYear": 921,
-    "dailyMinutesDown": {
-      "2024-02-19": 7
-    }
+    "time": 942,
+    "timeDay": 1105,
+    "timeWeek": 1264,
+    "timeMonth": 1098,
+    "timeYear": 922,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hemmfy",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 177,
-    "timeWeek": 231,
-    "timeMonth": 499,
-    "timeYear": 314,
+    "timeDay": 361,
+    "timeWeek": 255,
+    "timeMonth": 503,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 734,
-    "timeDay": 577,
-    "timeWeek": 516,
-    "timeMonth": 494,
-    "timeYear": 644,
+    "time": 732,
+    "timeDay": 833,
+    "timeWeek": 555,
+    "timeMonth": 513,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2023-11-13": 39
     }
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 179,
-    "timeWeek": 154,
-    "timeMonth": 183,
-    "timeYear": 429,
+    "time": 484,
+    "timeDay": 229,
+    "timeWeek": 164,
+    "timeMonth": 186,
+    "timeYear": 427,
     "dailyMinutesDown": {}
   },
   {
@@ -82,17 +80,15 @@
     "slug": "ads-vape-ranger",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 179,
-    "timeWeek": 193,
-    "timeMonth": 346,
+    "timeDay": 245,
+    "timeWeek": 208,
+    "timeMonth": 350,
     "timeYear": 233,
-    "dailyMinutesDown": {
-      "2024-02-19": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
