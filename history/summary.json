@@ -22,9 +22,9 @@
     "url": "https://www.hemmfy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +33,28 @@
     "timeWeek": 266,
     "timeMonth": 282,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "eJuiceDB",
     "url": "https://www.ejuicedb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 656,
-    "timeDay": 458,
-    "timeWeek": 650,
-    "timeMonth": 567,
-    "timeYear": 587,
+    "timeDay": 318,
+    "timeWeek": 591,
+    "timeMonth": 555,
+    "timeYear": 586,
     "dailyMinutesDown": {
+      "2024-05-06": 0,
       "2023-11-13": 39
     }
   },
@@ -60,35 +63,39 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "up",
-    "uptime": "95.60%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.61%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 418,
-    "timeDay": 208,
-    "timeWeek": 148,
-    "timeMonth": 173,
-    "timeYear": 311,
-    "dailyMinutesDown": {}
+    "timeDay": 173,
+    "timeWeek": 147,
+    "timeMonth": 171,
+    "timeYear": 310,
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "Ads VapeRanger",
     "url": "https://ads.vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/ads.vaperanger.com.ico",
     "slug": "ads-vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 106,
-    "timeWeek": 174,
-    "timeMonth": 202,
+    "timeDay": 113,
+    "timeWeek": 167,
+    "timeMonth": 200,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   }
 ]
