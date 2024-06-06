@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 919,
-    "timeDay": 515,
-    "timeWeek": 827,
-    "timeMonth": 724,
+    "timeDay": 477,
+    "timeWeek": 755,
+    "timeMonth": 719,
     "timeYear": 966,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "hemmfy",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 973,
-    "timeWeek": 534,
-    "timeMonth": 357,
+    "timeDay": 944,
+    "timeWeek": 540,
+    "timeMonth": 359,
     "timeYear": 323,
-    "dailyMinutesDown": {
-      "2024-06-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "eJuiceDB",
@@ -44,17 +42,16 @@
     "slug": "e-juice-db",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 631,
-    "timeDay": 1123,
-    "timeWeek": 748,
-    "timeMonth": 605,
-    "timeYear": 592,
+    "timeDay": 1093,
+    "timeWeek": 788,
+    "timeMonth": 607,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2024-06-05": 7,
       "2023-11-13": 39
     }
   },
@@ -65,18 +62,16 @@
     "slug": "well-versed",
     "status": "up",
     "uptime": "95.78%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 835,
+    "time": 383,
+    "timeDay": 817,
     "timeWeek": 422,
-    "timeMonth": 226,
-    "timeYear": 273,
-    "dailyMinutesDown": {
-      "2024-06-05": 7
-    }
+    "timeMonth": 223,
+    "timeYear": 271,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ads VapeRanger",
@@ -85,17 +80,15 @@
     "slug": "ads-vape-ranger",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 880,
-    "timeWeek": 413,
-    "timeMonth": 240,
+    "time": 238,
+    "timeDay": 872,
+    "timeWeek": 419,
+    "timeMonth": 241,
     "timeYear": 243,
-    "dailyMinutesDown": {
-      "2024-06-05": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
