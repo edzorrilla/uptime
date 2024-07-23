@@ -4,18 +4,20 @@
     "url": "https://vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/vaperanger.com.ico",
     "slug": "vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 899,
-    "timeDay": 604,
-    "timeWeek": 634,
-    "timeMonth": 714,
-    "timeYear": 962,
-    "dailyMinutesDown": {}
+    "time": 898,
+    "timeDay": 382,
+    "timeWeek": 575,
+    "timeMonth": 696,
+    "timeYear": 960,
+    "dailyMinutesDown": {
+      "2024-07-23": 0
+    }
   },
   {
     "name": "Hemmfy",
