@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 899,
-    "timeDay": 610,
-    "timeWeek": 666,
-    "timeMonth": 631,
+    "timeDay": 543,
+    "timeWeek": 659,
+    "timeMonth": 633,
     "timeYear": 907,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "hemmfy",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 318,
-    "timeWeek": 362,
-    "timeMonth": 343,
-    "timeYear": 327,
-    "dailyMinutesDown": {
-      "2024-09-09": 10
-    }
+    "time": 316,
+    "timeDay": 324,
+    "timeWeek": 366,
+    "timeMonth": 347,
+    "timeYear": 328,
+    "dailyMinutesDown": {}
   },
   {
     "name": "eJuiceDB",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 668,
-    "timeDay": 1072,
-    "timeWeek": 1011,
-    "timeMonth": 1032,
-    "timeYear": 685,
+    "time": 669,
+    "timeDay": 979,
+    "timeWeek": 1003,
+    "timeMonth": 1034,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2023-11-13": 39
     }
@@ -68,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 111,
-    "timeWeek": 206,
-    "timeMonth": 198,
+    "time": 285,
+    "timeDay": 152,
+    "timeWeek": 200,
+    "timeMonth": 197,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 227,
-    "timeWeek": 224,
-    "timeMonth": 231,
+    "timeDay": 218,
+    "timeWeek": 221,
+    "timeMonth": 233,
     "timeYear": 241,
     "dailyMinutesDown": {}
   }
