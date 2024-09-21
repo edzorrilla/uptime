@@ -22,19 +22,19 @@
     "url": "https://www.hemmfy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 239,
-    "timeWeek": 323,
-    "timeMonth": 354,
-    "timeYear": 331,
+    "timeDay": 294,
+    "timeWeek": 331,
+    "timeMonth": 356,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 6
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "down",
+    "status": "up",
     "uptime": "96.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 170,
-    "timeWeek": 196,
-    "timeMonth": 212,
+    "time": 274,
+    "timeDay": 148,
+    "timeWeek": 185,
+    "timeMonth": 209,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 6
     }
   },
   {
