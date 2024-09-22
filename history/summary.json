@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 899,
-    "timeDay": 649,
-    "timeWeek": 580,
-    "timeMonth": 622,
+    "timeDay": 833,
+    "timeWeek": 603,
+    "timeMonth": 635,
     "timeYear": 905,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "hemmfy",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 294,
-    "timeWeek": 331,
-    "timeMonth": 356,
+    "time": 320,
+    "timeDay": 361,
+    "timeWeek": 340,
+    "timeMonth": 360,
     "timeYear": 332,
-    "dailyMinutesDown": {
-      "2024-09-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "eJuiceDB",
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 675,
-    "timeDay": 209,
-    "timeWeek": 684,
-    "timeMonth": 912,
+    "time": 677,
+    "timeDay": 1030,
+    "timeWeek": 697,
+    "timeMonth": 904,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2023-11-13": 39
@@ -64,18 +62,16 @@
     "slug": "well-versed",
     "status": "up",
     "uptime": "96.29%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 148,
-    "timeWeek": 185,
-    "timeMonth": 209,
-    "timeYear": 211,
-    "dailyMinutesDown": {
-      "2024-09-21": 6
-    }
+    "time": 273,
+    "timeDay": 153,
+    "timeWeek": 188,
+    "timeMonth": 208,
+    "timeYear": 210,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ads VapeRanger",
@@ -89,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 294,
-    "timeWeek": 241,
-    "timeMonth": 225,
+    "timeDay": 354,
+    "timeWeek": 246,
+    "timeMonth": 230,
     "timeYear": 243,
     "dailyMinutesDown": {}
   }
