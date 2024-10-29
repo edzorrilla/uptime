@@ -24,19 +24,19 @@
     "url": "https://www.hemmfy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 205,
-    "timeWeek": 297,
-    "timeMonth": 313,
+    "timeDay": 218,
+    "timeWeek": 291,
+    "timeMonth": 311,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-10-29": 0
+      "2024-10-29": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.ejuicedb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 708,
-    "timeDay": 476,
-    "timeWeek": 998,
-    "timeMonth": 991,
+    "timeDay": 559,
+    "timeWeek": 968,
+    "timeMonth": 982,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2024-10-29": 0,
+      "2024-10-29": 6,
       "2023-11-13": 39
     }
   },
@@ -65,19 +65,19 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "down",
+    "status": "up",
     "uptime": "96.44%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 170,
-    "timeWeek": 239,
+    "time": 237,
+    "timeDay": 190,
+    "timeWeek": 238,
     "timeMonth": 224,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-10-29": 0
+      "2024-10-29": 6
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "https://ads.vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/ads.vaperanger.com.ico",
     "slug": "ads-vape-ranger",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 185,
-    "timeWeek": 209,
-    "timeMonth": 228,
+    "timeDay": 172,
+    "timeWeek": 202,
+    "timeMonth": 225,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2024-10-29": 0
+      "2024-10-29": 6
     }
   }
 ]
