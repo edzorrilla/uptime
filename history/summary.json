@@ -42,19 +42,19 @@
     "url": "https://www.ejuicedb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 608,
-    "timeWeek": 1062,
-    "timeMonth": 960,
-    "timeYear": 721,
+    "time": 722,
+    "timeDay": 778,
+    "timeWeek": 1068,
+    "timeMonth": 965,
+    "timeYear": 722,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 8
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "down",
+    "status": "up",
     "uptime": "96.50%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 125,
+    "time": 222,
+    "timeDay": 149,
     "timeWeek": 196,
-    "timeMonth": 235,
+    "timeMonth": 234,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 8
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://ads.vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/ads.vaperanger.com.ico",
     "slug": "ads-vape-ranger",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 245,
-    "timeWeek": 246,
-    "timeMonth": 260,
+    "timeDay": 224,
+    "timeWeek": 239,
+    "timeMonth": 258,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-11-14": 0
+      "2024-11-14": 8
     }
   }
 ]
