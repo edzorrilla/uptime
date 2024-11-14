@@ -42,53 +42,59 @@
     "url": "https://www.ejuicedb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 1093,
-    "timeWeek": 1196,
-    "timeMonth": 986,
-    "timeYear": 723,
-    "dailyMinutesDown": {}
+    "time": 720,
+    "timeDay": 608,
+    "timeWeek": 1062,
+    "timeMonth": 960,
+    "timeYear": 721,
+    "dailyMinutesDown": {
+      "2024-11-14": 0
+    }
   },
   {
     "name": "Well Versed",
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "up",
+    "status": "down",
     "uptime": "96.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 122,
-    "timeWeek": 205,
-    "timeMonth": 238,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "timeDay": 125,
+    "timeWeek": 196,
+    "timeMonth": 235,
+    "timeYear": 203,
+    "dailyMinutesDown": {
+      "2024-11-14": 0
+    }
   },
   {
     "name": "Ads VapeRanger",
     "url": "https://ads.vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/ads.vaperanger.com.ico",
     "slug": "ads-vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 196,
-    "timeWeek": 240,
-    "timeMonth": 259,
+    "timeDay": 245,
+    "timeWeek": 246,
+    "timeMonth": 260,
     "timeYear": 247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-14": 0
+    }
   }
 ]
