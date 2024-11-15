@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 908,
-    "timeDay": 603,
-    "timeWeek": 668,
-    "timeMonth": 927,
-    "timeYear": 876,
+    "timeDay": 573,
+    "timeWeek": 615,
+    "timeMonth": 924,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2024-10-17": 32
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 304,
-    "timeWeek": 327,
-    "timeMonth": 325,
+    "timeDay": 405,
+    "timeWeek": 345,
+    "timeMonth": 331,
     "timeYear": 331,
     "dailyMinutesDown": {}
   },
@@ -44,18 +44,16 @@
     "slug": "e-juice-db",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 778,
-    "timeWeek": 1068,
-    "timeMonth": 965,
+    "time": 721,
+    "timeDay": 475,
+    "timeWeek": 944,
+    "timeMonth": 940,
     "timeYear": 722,
-    "dailyMinutesDown": {
-      "2024-11-14": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Well Versed",
@@ -63,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
     "status": "up",
-    "uptime": "96.50%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "96.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 149,
-    "timeWeek": 196,
+    "time": 221,
+    "timeDay": 165,
+    "timeWeek": 190,
     "timeMonth": 234,
     "timeYear": 203,
-    "dailyMinutesDown": {
-      "2024-11-14": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ads VapeRanger",
@@ -84,17 +80,15 @@
     "slug": "ads-vape-ranger",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 224,
-    "timeWeek": 239,
-    "timeMonth": 258,
+    "timeDay": 233,
+    "timeWeek": 217,
+    "timeMonth": 255,
     "timeYear": 247,
-    "dailyMinutesDown": {
-      "2024-11-14": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
