@@ -24,19 +24,19 @@
     "url": "https://www.hemmfy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 2169,
-    "timeWeek": 802,
-    "timeMonth": 439,
+    "timeDay": 1531,
+    "timeWeek": 741,
+    "timeMonth": 434,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-11-16": 0
+      "2024-11-16": 6
     }
   },
   {
