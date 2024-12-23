@@ -24,18 +24,20 @@
     "url": "https://www.hemmfy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 260,
-    "timeWeek": 346,
-    "timeMonth": 308,
-    "timeYear": 334,
-    "dailyMinutesDown": {}
+    "timeDay": 204,
+    "timeWeek": 322,
+    "timeMonth": 303,
+    "timeYear": 333,
+    "dailyMinutesDown": {
+      "2024-12-23": 0
+    }
   },
   {
     "name": "eJuiceDB",
