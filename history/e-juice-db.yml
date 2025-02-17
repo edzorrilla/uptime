@@ -1,7 +1,7 @@
 url: https://www.ejuicedb.com
-status: up
-code: 200
-responseTime: 971
-lastUpdated: 2025-02-16T23:02:09.612Z
+status: down
+code: 503
+responseTime: 223
+lastUpdated: 2025-02-17T08:21:34.192Z
 startTime: 2022-04-21T16:38:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
