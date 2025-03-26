@@ -43,19 +43,19 @@
     "url": "https://www.ejuicedb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 778,
-    "timeDay": 238,
-    "timeWeek": 595,
-    "timeMonth": 900,
+    "timeDay": 514,
+    "timeWeek": 619,
+    "timeMonth": 896,
     "timeYear": 866,
     "dailyMinutesDown": {
-      "2025-03-26": 1
+      "2025-03-26": 7
     }
   },
   {
@@ -63,19 +63,19 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "down",
+    "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 218,
-    "timeWeek": 259,
+    "timeDay": 207,
+    "timeWeek": 251,
     "timeMonth": 199,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 7
     }
   },
   {
