@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 789,
-    "timeDay": 331,
-    "timeWeek": 357,
-    "timeMonth": 296,
-    "timeYear": 698,
+    "time": 788,
+    "timeDay": 149,
+    "timeWeek": 261,
+    "timeMonth": 295,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2024-12-25": 172,
       "2024-10-17": 32
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 302,
-    "timeWeek": 293,
-    "timeMonth": 327,
+    "timeDay": 367,
+    "timeWeek": 302,
+    "timeMonth": 328,
     "timeYear": 328,
     "dailyMinutesDown": {}
   },
@@ -45,18 +45,16 @@
     "slug": "e-juice-db",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 514,
-    "timeWeek": 619,
-    "timeMonth": 896,
-    "timeYear": 866,
-    "dailyMinutesDown": {
-      "2025-03-26": 7
-    }
+    "time": 780,
+    "timeDay": 1017,
+    "timeWeek": 753,
+    "timeMonth": 909,
+    "timeYear": 867,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Well Versed",
@@ -65,18 +63,16 @@
     "slug": "well-versed",
     "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 207,
-    "timeWeek": 251,
+    "timeDay": 204,
+    "timeWeek": 221,
     "timeMonth": 199,
     "timeYear": 212,
-    "dailyMinutesDown": {
-      "2025-03-26": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ads VapeRanger",
@@ -90,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 267,
-    "timeDay": 199,
-    "timeWeek": 236,
-    "timeMonth": 241,
+    "timeDay": 383,
+    "timeWeek": 250,
+    "timeMonth": 249,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2024-12-25": 84
