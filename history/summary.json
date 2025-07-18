@@ -6,16 +6,17 @@
     "slug": "vape-ranger",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 606,
+    "time": 605,
     "timeDay": 288,
     "timeWeek": 291,
     "timeMonth": 436,
     "timeYear": 532,
     "dailyMinutesDown": {
+      "2025-07-18": 0,
       "2024-12-25": 172,
       "2024-10-17": 32
     }
