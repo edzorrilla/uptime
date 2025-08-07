@@ -44,18 +44,20 @@
     "url": "https://www.ejuicedb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 882,
-    "timeDay": 638,
-    "timeWeek": 918,
-    "timeMonth": 811,
-    "timeYear": 912,
-    "dailyMinutesDown": {}
+    "timeDay": 517,
+    "timeWeek": 853,
+    "timeMonth": 798,
+    "timeYear": 911,
+    "dailyMinutesDown": {
+      "2025-08-07": 0
+    }
   },
   {
     "name": "Well Versed",
