@@ -29,7 +29,7 @@
     "uptime": "90.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.99%",
-    "uptimeMonth": "32.55%",
+    "uptimeMonth": "32.71%",
     "uptimeYear": "63.35%",
     "time": 366,
     "timeDay": 763,
@@ -182,9 +182,9 @@
     "slug": "e-juice-db",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 714,
     "timeDay": 216,
@@ -192,7 +192,6 @@
     "timeMonth": 375,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2026-03-23": 14,
       "2026-03-16": 24,
       "2026-02-27": 17,
       "2026-02-26": 21,
@@ -207,9 +206,9 @@
     "slug": "well-versed",
     "status": "up",
     "uptime": "97.71%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 274,
     "timeDay": 207,
@@ -217,7 +216,6 @@
     "timeMonth": 342,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2026-03-23": 14,
       "2025-12-05": 28
     }
   },
@@ -228,9 +226,9 @@
     "slug": "ads-vape-ranger",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 312,
     "timeDay": 397,
@@ -238,7 +236,6 @@
     "timeMonth": 363,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2026-03-23": 14,
       "2025-12-05": 28,
       "2025-04-02": 17
     }
