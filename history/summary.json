@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
     "status": "up",
-    "uptime": "91.02%",
+    "uptime": "91.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.36%",
@@ -215,21 +215,22 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "up",
+    "status": "down",
     "uptime": "97.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 323,
-    "timeDay": 609,
-    "timeWeek": 443,
-    "timeMonth": 494,
-    "timeYear": 352,
+    "time": 333,
+    "timeDay": 2909,
+    "timeWeek": 1039,
+    "timeMonth": 642,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-03-29": 20,
-      "2026-04-29": 33
+      "2026-04-29": 33,
+      "2026-06-03": 1
     }
   },
   {
@@ -237,21 +238,22 @@
     "url": "https://ads.vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/ads.vaperanger.com.ico",
     "slug": "ads-vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 321,
-    "timeDay": 290,
-    "timeWeek": 328,
-    "timeMonth": 403,
-    "timeYear": 338,
+    "time": 331,
+    "timeDay": 2767,
+    "timeWeek": 943,
+    "timeMonth": 555,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-03-28": 17,
-      "2026-03-30": 22
+      "2026-03-30": 22,
+      "2026-06-03": 0
     }
   }
 ]
