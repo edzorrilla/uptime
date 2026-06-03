@@ -215,22 +215,22 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "down",
-    "uptime": "97.82%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.96%",
     "time": 333,
-    "timeDay": 2909,
-    "timeWeek": 1039,
-    "timeMonth": 642,
+    "timeDay": 1999,
+    "timeWeek": 943,
+    "timeMonth": 628,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-03-29": 20,
       "2026-04-29": 33,
-      "2026-06-03": 1
+      "2026-06-03": 104
     }
   },
   {
@@ -238,22 +238,22 @@
     "url": "https://ads.vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/ads.vaperanger.com.ico",
     "slug": "ads-vape-ranger",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.97%",
     "time": 331,
-    "timeDay": 2767,
-    "timeWeek": 943,
-    "timeMonth": 555,
-    "timeYear": 351,
+    "timeDay": 1921,
+    "timeWeek": 863,
+    "timeMonth": 545,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-03-28": 17,
       "2026-03-30": 22,
-      "2026-06-03": 0
+      "2026-06-03": 104
     }
   }
 ]
