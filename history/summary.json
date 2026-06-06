@@ -215,23 +215,23 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "down",
-    "uptime": "97.82%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.96%",
     "time": 334,
-    "timeDay": 409,
-    "timeWeek": 889,
-    "timeMonth": 600,
+    "timeDay": 399,
+    "timeWeek": 843,
+    "timeMonth": 594,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-03-29": 20,
       "2026-04-29": 33,
       "2026-06-03": 104,
-      "2026-06-06": 0
+      "2026-06-06": 42
     }
   },
   {
