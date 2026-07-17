@@ -14,7 +14,7 @@
     "timeDay": 238,
     "timeWeek": 297,
     "timeMonth": 297,
-    "timeYear": 308,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2025-07-18": 16,
       "2025-12-05": 28,
@@ -36,7 +36,7 @@
     "timeDay": 764,
     "timeWeek": 828,
     "timeMonth": 3032,
-    "timeYear": 1337,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2026-03-16": 614,
       "2026-03-15": 1440,
@@ -191,17 +191,17 @@
     "url": "https://www.ejuicedb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "83.25%",
-    "uptimeWeek": "91.43%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "99.76%",
-    "time": 594,
-    "timeDay": 171,
-    "timeWeek": 352,
-    "timeMonth": 365,
-    "timeYear": 474,
+    "uptimeDay": "79.48%",
+    "uptimeWeek": "90.89%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "99.75%",
+    "time": 593,
+    "timeDay": 175,
+    "timeWeek": 345,
+    "timeMonth": 362,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2025-08-07": 20,
       "2025-12-05": 28,
@@ -216,7 +216,7 @@
       "2026-07-14": 313,
       "2026-07-15": 130,
       "2026-07-16": 179,
-      "2026-07-17": 240
+      "2026-07-17": 294
     }
   },
   {
@@ -224,16 +224,16 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.04%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.03%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.90%",
     "time": 333,
-    "timeDay": 438,
-    "timeWeek": 493,
-    "timeMonth": 454,
+    "timeDay": 309,
+    "timeWeek": 461,
+    "timeMonth": 447,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2025-12-05": 28,
@@ -242,7 +242,8 @@
       "2026-06-03": 104,
       "2026-06-06": 42,
       "2026-06-20": 103,
-      "2026-07-14": 198
+      "2026-07-14": 198,
+      "2026-07-17": 0
     }
   },
   {
@@ -250,23 +251,24 @@
     "url": "https://ads.vaperanger.com",
     "icon": "https://icons.duckduckgo.com/ip3/ads.vaperanger.com.ico",
     "slug": "ads-vape-ranger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.95%",
     "time": 345,
-    "timeDay": 283,
-    "timeWeek": 360,
-    "timeMonth": 390,
+    "timeDay": 181,
+    "timeWeek": 325,
+    "timeMonth": 381,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-03-28": 17,
       "2026-03-30": 22,
       "2026-06-03": 104,
-      "2026-06-20": 98
+      "2026-06-20": 98,
+      "2026-07-17": 0
     }
   }
 ]
