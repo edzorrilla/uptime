@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
     "status": "up",
-    "uptime": "91.15%",
+    "uptime": "91.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.23%",
@@ -224,17 +224,17 @@
     "url": "https://staywellversed.com",
     "icon": "https://icons.duckduckgo.com/ip3/staywellversed.com.ico",
     "slug": "well-versed",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
-    "uptimeDay": "97.30%",
+    "uptimeDay": "97.28%",
     "uptimeWeek": "97.65%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.89%",
     "time": 334,
-    "timeDay": 454,
-    "timeWeek": 478,
-    "timeMonth": 454,
-    "timeYear": 393,
+    "timeDay": 332,
+    "timeWeek": 443,
+    "timeMonth": 444,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2025-12-05": 28,
       "2026-03-29": 20,
@@ -243,7 +243,8 @@
       "2026-06-06": 42,
       "2026-06-20": 103,
       "2026-07-14": 198,
-      "2026-07-17": 39
+      "2026-07-17": 39,
+      "2026-07-18": 0
     }
   },
   {
