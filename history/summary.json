@@ -190,15 +190,15 @@
     "url": "https://www.ejuicedb.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.17%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "81.00%",
     "uptimeMonth": "94.01%",
     "uptimeYear": "99.43%",
-    "time": 554,
-    "timeDay": 351,
-    "timeWeek": 190,
+    "time": 552,
+    "timeDay": 305,
+    "timeWeek": 196,
     "timeMonth": 299,
     "timeYear": 449,
     "dailyMinutesDown": {
@@ -220,7 +220,8 @@
       "2026-07-19": 333,
       "2026-07-20": 417,
       "2026-07-21": 510,
-      "2026-07-22": 240
+      "2026-07-22": 240,
+      "2026-07-24": 0
     }
   },
   {
