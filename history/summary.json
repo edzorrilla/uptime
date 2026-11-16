@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hemmfy.com.ico",
     "slug": "hemmfy",
     "status": "down",
-    "uptime": "89.21%",
+    "uptime": "89.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.31%",
@@ -200,7 +200,7 @@
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 121,
-      "2026-11-16": 151,
+      "2026-11-16": 358,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -229,11 +229,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ejuicedb.com.ico",
     "slug": "e-juice-db",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "99.20%",
+    "uptime": "99.81%",
+    "uptimeDay": "85.60%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "99.16%",
     "time": 395,
     "timeDay": 37,
     "timeWeek": 131,
@@ -265,7 +265,7 @@
       "2026-11-05": 413,
       "2026-11-15": 139,
       "2026-11-14": 44,
-      "2026-11-16": 0
+      "2026-11-16": 207
     }
   },
   {
